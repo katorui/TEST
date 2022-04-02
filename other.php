@@ -8,7 +8,7 @@
 </head>
 <body>
     <h1>otherページです</h1>
-    <h4>takeブランチです</h4>
+    <h4>takeブランチです2</h4>
     <div>
       <a href="index.php">トップページへ</a>
     </div>
