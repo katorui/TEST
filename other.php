@@ -1,4 +1,5 @@
 <?php
+ini_set('display_errors', "On");
 // var_dump($_POST);
 if (isset($_POST)) {
     $item_name = $_POST["item_name"];

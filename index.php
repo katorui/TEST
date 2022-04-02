@@ -1,4 +1,5 @@
 <?php
+ini_set('display_errors', "On");
 try {
     $dbh = new PDO("mysql:host=localhost;dbname=raspai_test;charset=utf8mb4","root","root");
     $stmt = $dbh->prepare("SELECT * FROM item");
