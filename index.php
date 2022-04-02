@@ -9,6 +9,7 @@
 <body>
     <h1>トップページです</h1>
     <h4>takeブランチです2</h4>
+    <h4>takeブランチです3</h4>
     <div>
       <a href="other.php">otherページへ</a>
     </div>
